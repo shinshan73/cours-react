@@ -1,0 +1,18 @@
+.cardcontainer{
+    color: #0096FF;
+    margin: 3vw;
+    font-family: sans-serif;
+    text-align: center;
+    border: 3px solid black;
+    box-shadow: 10px 10px 1px #6495ED;
+    width: vw;
+    padding: 2vw;
+}
+
+.cardcontainer button{
+    border-radius: 10vw;
+    height: 2vw;
+    width: 5vw;
+    border: none;
+    background-color:#ADD8E6;
+}
